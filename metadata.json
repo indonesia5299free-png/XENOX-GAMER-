@@ -1,0 +1,6 @@
+{
+  "name": "Hydro Track",
+  "description": "An application for iOS and Android that helps users track their daily water intakes and includes push notifications to remind them to stay hydrated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
